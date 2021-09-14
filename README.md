@@ -1,2 +1,2 @@
 # This is my first repo
-## I have updated anad merged
+## I have updated and merged
